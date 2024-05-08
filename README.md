@@ -1,7 +1,8 @@
 <p align = "center">
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:9796f0,100:fbc7d4&height=300&text=Hi,%20I'm%20Seorim&animation=fadeIn" />
 </p>
-<br>
+
+<br><br>
 
 <p align="center">
 <Strong> ⭐ Experience ⭐ </Strong> <br>
