@@ -1,19 +1,19 @@
 <p align = "center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:9796f0,100:fbc7d4&height=300&text=Hi,%20I'm%20Seorim&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:9796f0,100:fbc7d4&height=200&text=I'm%20Seorim&animation=fadeIn&fontSize=50" />
 </p>
 
 <br><br>
 
+<h3 style="text-align: center;"> ⭐ Experience ⭐ </h3>
 <p align="center">
-<Strong> ⭐ Experience ⭐ </Strong> <br>
-[인턴] 2022.07~2022.08 퀀타매트릭스 알고리즘 개발팀 <br>
-[연구] 2023.03~2023.08 DM Lab 패션 이미지 정렬 알고리즘 개발 <br>
+    [인턴] 2022.07~2022.08 퀀타매트릭스 알고리즘 개발팀 <br>
+    [연구] 2023.03~2023.08 DM Lab 패션 이미지 정렬 알고리즘 개발 <br>
 </p>
 
 <br><br>
 
+<h3 style="text-align: center;"> ⚒️ Tech Skills ⚒️ </h3>
 <p align="center">
-    <Strong>⚒️ Tech Skills ⚒️</Strong><br>
     most used
 </p>
 
@@ -45,10 +45,7 @@
 
 <br><br>
 
-<p align="center">
-    <Strong> 🌐 Others 🌐 </Strong>
-</p>
-
+<h3 style="text-align: center;"> 🌐 Others 🌐 </h3>
 <p align="center" display="inline-block">
     <img src=https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white>
     <img src=https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white> <br>
@@ -60,10 +57,7 @@
 
 <br><br>
 
-<p align="center">
-    <Strong> 🧩 Algorithm 🧩 </Strong>
-</p>
-
+<h3 style="text-align: center;"> 🧩 Algorithm 🧩 </h3>
 <p align="center" display="inline-block">
     <a href="https://solved.ac/srcho01">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=srcho01" alt="Solved.ac 프로필">
