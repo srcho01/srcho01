@@ -4,23 +4,19 @@
 <br><br> -->
 
 <h3> 🙋🏻‍♀️ About Me 🙋🏻‍♀️ </h3>
-<div style="display: inline-block; text-align: left; width: 70%; max-width: 400px; margin-left: 100px;">
-    <img src="hello.png" width="70px" height="70px" style="float: left; margin-right: 10px;">
-    <div style="text-align: left; margin-top: 15px">
-        Major Software in Kookmin Univ. <br>
-        I mostly studied ML/DL
+<div style="display: inline-block;">
+    <img src="hello.png" width="100px" height="100px">
+    <div>
+        Major <b>Software</b> in Kookmin Univ. <br>
+        I mostly studied <b>ML/DL</b>
     </div>
 </div>
 
 <br><br>
 
 <h3> ⭐ Experience ⭐ </h3>
-<div style="display: inline-block; text-align: left; width: 80%; max-width: 450px; margin-left: 100px;">
-    <div style="text-align: left;">
-        <b>[인턴]</b> 2022.07~2022.08 퀀타매트릭스 알고리즘 개발팀 <br>
-        <b>[연구]</b> 2023.03~2023.08 DM Lab 패션 이미지 정렬 알고리즘 개발 <br>
-    </div>
-</div>
+<b>[인턴]</b> 2022.07~2022.08 퀀타매트릭스 알고리즘 개발팀 <br>
+<b>[연구]</b> 2023.03~2023.08 DM Lab 패션 이미지 정렬 알고리즘 개발 <br>
 
 <br><br>
 
