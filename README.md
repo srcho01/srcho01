@@ -3,7 +3,7 @@
 <!-- <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:9796f0,100:fbc7d4&height=200&text=I'm%20Seorim&animation=fadeIn&fontSize=50" />
 <br><br> -->
 
-<h2> 🙋🏻‍♀️ About Me 🙋🏻‍♀️ </h2>
+<h3> 🙋🏻‍♀️ About Me 🙋🏻‍♀️ </h3>
 Major Software in Kookmin Univ. <br>
 I mostly studied ML/DL
 
